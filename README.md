@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **full stack developer**
 
-- 👨‍💻 All of my projects are available at [https://ganeshg09.github.io/Web-Projects/](https://ganeshg09.github.io/Web-Projects/)
+- 👨‍💻 All of my Work available at [https://ganeshg09.github.io/Web-Projects/](https://ganeshg09.github.io/Web-Projects/)
 
 - 💬 Ask me about **react & javascript**
 
 - 📫 How to reach me **gaikwadganesh44600@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/SHREE/Downloads/Ganesh-Resume.pdf](file:///C:/Users/SHREE/Downloads/Ganesh-Resume.pdf)
+- 📄 Know about my experiences(file:///C:/Users/SHREE/Downloads/Ganesh-Resume.pdf)
 
 - ⚡ Fun fact **🚀 Currently exploring full stack development**
 
