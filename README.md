@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **full stack developer**
 
-- 👨‍💻 All of my Work available at [https://ganeshg09.github.io/Web-Projects/](https://ganeshg09.github.io/Web-Projects/)
+- 👨‍💻 All of my Work available at [https://ganeshg09.github.io/](https://ganesh-react-portfolio.vercel.app/)
 
 - 💬 Ask me about **react & javascript**
 
