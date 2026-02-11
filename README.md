@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react & javascript**
 
-- 📫 How to reach me **gaikwadganesh44600@gmail.com**
+- 📫 How to reach me **ganeshgaikwad.work@gmail.com**
 
 - 📄 Know about my experiences(file:///C:/Users/SHREE/Downloads/Ganesh-Resume.pdf)
 
